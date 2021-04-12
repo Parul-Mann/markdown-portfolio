@@ -1,0 +1,3 @@
+- fun stuff
+- going out 
+- more fun stuff
