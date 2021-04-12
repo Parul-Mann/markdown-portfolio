@@ -1,3 +1,3 @@
-fun stuff
-going out 
-more fun stuff
+-fun stuff
+-going out 
+-more fun stuff
